@@ -36,12 +36,14 @@ def main():
 
     # Get the directory where the script is located
     script_dir = os.path.dirname(os.path.realpath(__file__))
+    # get parent directory
+    parent_dir = os.path.abspath(os.path.join(script_dir, os.pardir))
     
     # Build the path to the data file
-    file_path = os.path.join(script_dir, '..', 'data', paper_list)
+    file_path = os.path.join(parent_dir, 'data', paper_list)
     
     # Open the file for reading
-    with open(file_path, "r") as file:
+    with open(file_path, "r", encoding='utf-8') as file:
         # Initialize a counter
         counter = 0
         
