@@ -1,0 +1,523 @@
+Can Autonomous Vehicles Identify, Recover From, and Adapt to Distribution Shifts?
+Informative Dropout for Robust Representation Learning: A Shape-bias Perspective
+Robust One-Bit Recovery via ReLU Generative Networks: Near-Optimal Statistical Rate and Global Landscape Analysis
+NetGAN without GAN: From Random Walks to Low-Rank Approximations
+Robust Learning with the Hilbert-Schmidt Independence Criterion
+Stochastically Dominant Distributional Reinforcement Learning
+Agent57: Outperforming the Atari Human Benchmark
+The Intrinsic Robustness of Stochastic Bandits to Strategic Manipulation
+On the Relation between Quality-Diversity Evaluation and Distribution-Fitting Goal in Text Generation
+Overfitting in adversarially robust deep learning
+SIGUA: Forgetting May Make Learning with Noisy Labels More Robust
+Distributionally Robust Policy Evaluation and Learning in Offline Contextual Bandits
+Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks
+A distributional view on multi-objective policy optimization
+Robust Graph Representation Learning via Neural Sparsification
+Certified Robustness to Label-Flipping Attacks via Randomized Smoothing
+Scalable and Efficient Comparison-based Search without Features
+Understanding and Mitigating the Tradeoff between Robustness and Accuracy
+Estimating Generalization under Distribution Shifts via Domain-Invariant Representations
+Implicit Euler Skip Connections: Enhancing Adversarial Robustness via Numerical Stability
+Adversarial Robustness via Runtime Masking and Cleansing
+The Implicit and Explicit Regularization Effects of Dropout
+Distribution Augmentation for Generative Modeling
+Robust and Stable Black Box Explanations
+Detecting Out-of-Distribution Examples with Gram Matrices
+ Predicting deliberative outcomes
+On Variational Learning of Controllable Representations for Text without Supervision
+Optimistic Bounds for Multi-output Learning
+NADS: Neural Architecture Distribution Search for Uncertainty Awareness
+Hierarchical Verification for Adversarial Robustness
+Zeno++: Robust Fully Asynchronous SGD
+Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling
+Adaptive Sampling for Estimating Probability Distributions
+Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates
+Estimation of Bounds on Potential Outcomes For Decision Making
+Min-Max Optimization without Gradients: Convergence and Applications to Black-Box Evasion and Poisoning Attacks
+Two Routes to Scalable Credit Assignment without Weight Symmetry
+Learning with Feature and Distribution Evolvable Streams
+Efficiently Learning Adversarially Robust Halfspaces with Noise
+Multi-Agent Routing Value Iteration Network
+Doubly robust off-policy evaluation with shrinkage 
+On a projective ensemble approach to two sample test for equality of distributions
+Low-loss connection of weight vectors: distribution-based approaches
+Transfer Learning without Knowing: Reprogramming Black-box Machine Learning Models with Scarce Data and Limited Resources
+Interpreting Robust Optimization via Adversarial Influence Functions
+Adversarial Robustness Against the Union of Multiple Perturbation Models
+Batch Stationary Distribution Estimation
+More Data Can Expand The Generalization Gap Between Adversarially Robust and Standard Models
+Double Reinforcement Learning for Efficient and Robust Off-Policy Evaluation
+Weakly-Supervised Disentanglement Without Compromises
+Towards Understanding the Regularization of Adversarial Robustness on Neural Networks
+The k-tied Normal Distribution: A Compact Parameterization of Gaussian Mean Field Posteriors in Bayesian Neural Networks
+Learning Compound Tasks without Task-specific Knowledge via Imitation and Self-supervised Learning
+Sharp Statistical Guaratees for Adversarially Robust Gaussian Classification
+Characterizing Distribution Equivalence and Structure Learning for Cyclic and Acyclic Directed Graphs
+Curse of Dimensionality on Randomized Smoothing for Certifiable Robustness
+Robustifying Sequential Neural Processes
+The Effect of Natural Distribution Shift on Question Answering Models
+Adaptive Gradient Descent without Descent
+Test-Time Training with Self-Supervision for Generalization under Distribution Shifts
+Convolutional dictionary learning based auto-encoders for natural exponential-family distributions
+Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More
+Controlling Overestimation Bias with Truncated Mixture of Continuous Distributional Quantile Critics
+Constructive Universal High-Dimensional Distribution Generation through Deep ReLU Networks
+Robustness to Spurious Correlations via Human Annotations
+On Lp-norm Robustness of Ensemble Decision Stumps and Trees
+High-dimensional Robust Mean Estimation via Gradient Descent
+DROCC: Deep Robust One-Class Classification
+Improving Robustness of Deep-Learning-Based Image Reconstruction
+Closing the convergence gap of SGD without replacement
+Private Outsourced Bayesian Optimization
+Causal Structure Discovery from Distributions Arising from Mixtures of DAGs
+A Distributional Framework For Data Valuation
+Learning Adversarially Robust Representations via Worst-Case Mutual Information Maximization
+Adversarial Robustness for Code
+Scalable Exact Inference in Multi-Output Gaussian Processes
+Topologically Densified Distributions
+Scalable Differential Privacy with Certified Robustness in Adversarial Learning
+Being Bayesian about Categorical Probability
+Neural Kernels Without Tangents
+Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning
+FormulaZero: Distributionally Robust Online Adaptation via Offline Population Synthesis
+Optimal Robust Learning of Discrete Distributions from Batches
+When are Non-Parametric Methods Robust?
+Incremental Sampling Without Replacement for Sequence Models
+Robust Pricing in Dynamic Mechanism Design
+FR-Train: A Mutual Information-Based Approach to Fair and Robust Training
+Robust Outlier Arm Identification
+Concentration bounds for CVaR estimation: The cases of light-tailed and heavy-tailed distributions
+Landscape Connectivity and Dropout Stability of SGD Solutions for Over-parameterized Neural Networks
+Robust Bayesian Classification Using An Optimistic Score Ratio
+Principled learning method for Wasserstein distributionally robust optimization with local perturbations
+Label-Noise Robust Domain Adaptation
+Striving for Simplicity and Performance in Off-Policy DRL: Output Normalization and Non-Uniform Sampling
+Proper Network Interpretability Helps Adversarial Robustness in Classification
+Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses
+Layered Sampling for Robust Optimization Problems
+Privately detecting changes in unknown distributions
+Robustness to Programmable String Transformations via Augmented Abstract Training
+From Importance Sampling to Doubly Robust Policy Gradient
+Class-Weighted Classification: Trade-offs and Robust Approaches
+DRWR: A Differentiable Renderer without Rendering for Unsupervised 3D Structure Learning from Silhouette Images
+Combining Pessimism with Optimism for Robust and Efficient Model-Based Deep Reinforcement Learning
+ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision
+Neural Architecture Search without Training
+On Lower Bounds for Standard and Robust Gaussian Process Bandit Optimization
+Dual Principal Component Pursuit for Robust Subspace Learning: Theory and Algorithms for a Holistic Approach
+Evaluating Robustness of Predictive Uncertainty Estimation: Are Dirichlet-based Models Reliable?
+Implicit-PDF: Non-Parametric Representation of Probability Distributions on the Rotation Manifold
+Robust Representation Learning via Perceptual Similarity Metrics
+Connecting Interpretability and Robustness in Decision Trees through Separation
+First-Order Methods for Wasserstein Distributionally Robust MDP
+SGA: A Robust Algorithm for  Partial Recovery of Tree-Structured  Graphical  Models with Noisy Samples
+Conditional Distributional Treatment Effect with Kernel Conditional Mean Embeddings and U-Statistic Regression
+What Does Rotation Prediction Tell Us about Classifier Accuracy under Varying Testing Environments?
+Global Prosody Style Transfer Without Text Transcriptions
+Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks
+Can Subnetwork Structure Be the Key to Out-of-Distribution Generalization?
+Non-Autoregressive Electron Redistribution Modeling for Reaction Prediction
+Learning Routines for Effective Off-Policy Reinforcement Learning
+Oops I Took A Gradient: Scalable Sampling for Discrete Distributions
+Mandoline: Model Evaluation under Distribution Shift
+Amortized Conditional Normalized Maximum Likelihood: Reliable Out of Distribution Uncertainty Estimation
+Sequential Domain Adaptation by Synthesizing Distributionally Robust Experts
+Towards Better Robust Generalization with Shift Consistency Regularization
+Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization
+Fixed-Parameter and Approximation Algorithms for PCA with Outliers
+Generalised Lipschitz Regularisation Equals Distributional Robustness
+CRFL: Certifiably Robust Federated Learning against Backdoor Attacks
+Disentangling Sampling and Labeling Bias for Learning in Large-output Spaces
+DFAC Framework: Factorizing the Value Function via Quantile Mixture for Multi-Agent Distributional Q-Learning
+On-Off Center-Surround Receptive Fields for Accurate and Robust Image Classification
+Dropout: Explicit Forms and Capacity Control
+Monotonic Robust Policy Optimization with Model Discrepancy
+Decoupling Exploration and Exploitation for Meta-Reinforcement Learning without Sacrifices
+ Provable Robustness of Adversarial Training for Learning Halfspaces with Noise
+Efficient Training of Robust Decision Trees Against Adversarial Examples
+Distribution-Free Calibration Guarantees for Histogram Binning without Sample Splitting
+MURAL: Meta-Learning Uncertainty-Aware Rewards for Outcome-Driven Reinforcement Learning
+DORO: Distributional and Outlier Robust Optimization
+Fundamental Tradeoffs in Distributionally Adversarial Training
+WILDS: A Benchmark of in-the-Wild Distribution Shifts
+Learning Online Algorithms with Distributional Advice
+Enhancing Robustness of Neural Networks through Fourier Stabilization
+A Distribution-dependent Analysis of Meta Learning
+Generalization Bounds in the Presence of Outliers: a Median-of-Means Study
+Near-Optimal Linear Regression under Distribution Shift
+Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization
+Active Learning for Distributionally Robust Level-Set Estimation
+Improved Corruption Robust Algorithms for Episodic Reinforcement Learning
+Doubly Robust Off-Policy Actor-Critic: Convergence and Optimality
+Object Segmentation Without Labels with Large-Scale Generative Models
+Training Adversarially Robust Sparse Networks via Bayesian Connectivity Sampling
+UCB Momentum Q-learning: Correcting the bias without forgetting
+Bias-Robust Bayesian Optimization via Dueling Bandits
+Approximating a Distribution Using Weight Queries
+Robust Asymmetric Learning in POMDPs
+Multiplying Matrices Without Multiplying
+High-Performance Large-Scale Image Recognition Without Normalization
+Robust Learning-Augmented Caching: An Experimental Study
+OptiDICE: Offline Policy Optimization via Stationary Distribution Correction Estimation
+Towards the Unification and Robustness of Perturbation and Gradient Based Explanations
+Robust Learning for Data Poisoning Attacks
+Practical and Private (Deep) Learning Without Sampling or Shuffling
+Making transport more robust and interpretable by moving data through a small number of anchor points
+Improved, Deterministic Smoothing for L_1 Certified Robustness
+Label Distribution Learning Machine
+Making Paper Reviewing Robust to Bid Manipulation Attacks
+Cumulants of Hawkes Processes are Robust to Observation Noise
+Ditto: Fair and Robust Federated Learning Through Personalization
+CIFS: Improving Adversarial Robustness of CNNs via Channel-wise Importance-based Feature Selection
+On Robust Mean Estimation under Coordinate-level Corruption
+Distributionally Robust Optimization with Markovian Data
+Pareto GAN: Extending the Representational Power of GANs to Heavy-Tailed Distributions
+Stochastic Multi-Armed Bandits with Unrestricted Delay Distributions
+Robust Density Estimation from Batches: The Best Things in Life are (Nearly) Free
+Projection Robust Wasserstein Barycenters
+Consistent regression when oblivious outliers overwhelm
+Learning Diverse-Structured Networks for Adversarial Robustness
+Provably End-to-end Label-noise Learning without Anchor Points
+Understanding self-supervised learning dynamics without contrastive pairs
+Wasserstein Distributional Normalization For Robust Distributional Certification of Noisy Labeled Data
+PHEW : Constructing Sparse Networks that Learn Fast and Generalize Well without Training Data
+Robust Policy Gradient against Strong Data Corruption
+Robust Pure Exploration in Linear Bandits with Limited Budget
+Asynchronous Distributed Learning : Adapting to Gradient Delays without Prior Knowledge
+Towards Distraction-Robust Active Visual Tracking
+Streaming and Distributed Algorithms for Robust Column Subset Selection
+Outlier-Robust Optimal Transport
+Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons
+Learning from History for Byzantine Robust Optimization
+On-the-fly Rectification for Robust Large-Vocabulary Topic Inference
+Double-Win Quant: Aggressively Winning Robustness of Quantized Deep Neural Networks via Random Precision Training and Inference
+Measuring Robustness in Deep Learning Based Compressive Sensing
+Diffusion Earth Mover's Distance and Distribution Embeddings
+A Tale of Two Efficient and Informative Negative Sampling Distributions
+A Structured Observation Distribution for Generative Biological Sequence Prediction and Forecasting
+Learning to Generate Noise for Multi-Attack Robustness
+Globally-Robust Neural Networks
+CARTL: Cooperative Adversarially-Robust Transfer Learning
+Follow-the-Regularized-Leader Routes to Chaos in Routing Games
+To be Robust or to be Fair: Towards Fairness in Adversarial Training
+Policy Gradient Bayesian Robust Optimization for Imitation Learning
+Blind Pareto Fairness and Subgroup Robustness
+Mediated Uncoupled Learning: Learning Functions without Direct Input-output Correspondences
+Understanding Failures in Out-of-Distribution Detection with Deep Generative Models
+Sample Complexity of Robust Linear Classification on Separated Data
+Robust Testing and Estimation under Manipulation Attacks
+Weight-covariance alignment for adversarially robust neural networks
+Robust Unsupervised Learning via L-statistic Minimization
+Out-of-Distribution Generalization via Risk Extrapolation (REx)
+Robust Inference for High-Dimensional Linear Models via Residual Randomization
+Just Train Twice: Improving Group Robustness without Training Group Information
+Examining and Combating Spurious Features under Distribution Shift
+Unified Robust Semi-Supervised Variational Autoencoder
+Outside the Echo Chamber: Optimizing the Performative Risk
+Defense against backdoor attacks via robust covariance estimation
+SPADE: A Spectral Method for Black-Box Adversarial Robustness Evaluation
+GMAC: A Distributional Perspective on Actor-Critic Framework
+Event Outlier Detection in Continuous Time
+Federated Learning of User Verification Models Without Sharing Embeddings
+Robust Reinforcement Learning using Least Squares Policy Iteration with Provable Performance Guarantees
+Adversarial Robustness Guarantees for Random Deep Neural Networks
+What's in the Box? Exploring the Inner Life of Neural Networks with Robust Rules
+A Riemannian Block Coordinate Descent Method for Computing the Projection Robust Wasserstein Distance
+Regularizing a Model-based Policy Stationary Distribution to Stabilize Offline Reinforcement Learning
+On Distribution Shift in Learning-based Bug Detectors
+Understanding The Robustness in Vision Transformers
+Measuring Representational Robustness of Neural Networks Through Shared Invariances
+Content Addressable Memory Without Catastrophic Forgetting by Heteroassociation with a Fixed Scaffold
+Robust Training of Neural Networks Using Scale Invariant Architectures
+Generalization and Robustness Implications in Object-Centric Learning
+Correct-N-Contrast: a Contrastive Approach for Improving Robustness to Spurious Correlations
+Lyapunov Density Models: Constraining Distribution Shift in Learning-Based Control
+On the Adversarial Robustness of Causal Algorithmic Recourse
+Adversarially Robust Models may not Transfer Better: Sufficient Conditions for Domain Transferability from the View of Regularization
+Demystifying the Adversarial Robustness of Random Transformation Defenses
+Image-to-Image Regression with Distribution-Free Uncertainty Quantification and Applications in Imaging
+Data Determines Distributional Robustness in Contrastive Language Image Pre-training (CLIP)
+A State-Distribution Matching Approach to Non-Episodic Reinforcement Learning
+On the Robustness of CountSketch to Adaptive Inputs
+Evaluating the Adversarial Robustness of Adaptive Test-time Defenses
+Improving Out-of-Distribution Robustness via Selective Augmentation
+The Geometry of Robust Value Functions
+Robust Fine-Tuning of Deep Neural Networks with Hessian-based Generalization Guarantees
+Test-Time Training Can Close the Natural Distribution Shift Performance Gap in Deep Learning Based Compressed Sensing
+Distribution Regression with Sliced Wasserstein Kernels
+Latent Outlier Exposure for Anomaly Detection with Contaminated Data
+Efficient Distributionally Robust Bayesian Optimization with Worst-case Sensitivity
+Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning
+TURF: Two-Factor, Universal, Robust, Fast Distribution Learning Algorithm
+Model Agnostic Sample Reweighting for Out-of-Distribution Learning
+Certified Robustness Against Natural Language Attacks by Causal Intervention
+Unified Scaling Laws for Routed Language Models
+Bayesian Optimization for Distributionally Robust Chance-constrained Problem
+Align-RUDDER: Learning From Few Demonstrations by Reward Redistribution
+EDEN: Communication-Efficient and Robust Distributed Mean Estimation for Federated Learning
+A Completely Tuning-Free and Robust Approach to Sparse Precision Matrix Estimation
+Generalized Data Distribution Iteration
+Iterative Hard Thresholding with Adaptive Regularization: Sparser Solutions Without Sacrificing Runtime
+Improving Adversarial Robustness via Mutual Information Estimation
+Graph Neural Architecture Search Under Distribution Shifts
+Certifying Out-of-Domain Generalization for Blackbox Functions
+Spectral Representation of Robustness Measures for Optimization Under Input Uncertainty 
+Causal Transformer for Estimating Counterfactual Outcomes
+Predicting Out-of-Distribution Error with the Projection Norm
+Provably Adversarially Robust Nearest Prototype Classifiers
+Improving Task-free Continual Learning by Distributionally Robust Memory Evolution
+Revisiting Online Submodular Minimization: Gap-Dependent Regret Bounds, Best of Both Worlds and Adversarial Robustness
+Linearity Grafting: Relaxed Neuron Pruning Helps Certifiable Robustness
+Robust Imitation Learning against Variations in Environment Dynamics
+Causal structure-based root cause analysis of outliers
+Only tails matter: Average-Case Universality and Robustness in the Convex Regime
+Certified Adversarial Robustness Under the Bounded Support Set
+Breaking Down Out-of-Distribution Detection: Many Methods Based on OOD Training Data Estimate a Combination of the Same Core Quantities
+Blurs Behave Like Ensembles: Spatial Smoothings to Improve Accuracy, Uncertainty, and Robustness
+Disentangling Sources of Risk for Distributional Multi-Agent Reinforcement Learning
+Functional Output Regression with Infimal Convolution: Exploring the Huber and $\epsilon$-insensitive Losses
+On Collective Robustness of Bagging Against Data Poisoning
+Gating Dropout: Communication-efficient Regularization for Sparsely Activated Transformers
+Investigating Why Contrastive Learning Benefits Robustness against Label Noise
+GSmooth: Certified Robustness against Semantic Transformations via Generalized Randomized Smoothing
+Deletion Robust Submodular Maximization over Matroids
+Counterfactual Prediction for Outcome-Oriented Treatments
+Generating Distributional Adversarial Examples to Evade Statistical Detectors
+Learning Efficient and Robust Ordinary Differential Equations via Invertible Neural Networks
+Marginal Distribution Adaptation for Discrete Sets via Module-Oriented Divergence Minimization
+Robust Group Synchronization via Quadratic Programming
+Distributionally-Aware Kernelized Bandit Problems for Risk Aversion
+Not All Poisons are Created Equal: Robust Training against Data Poisoning
+LCANets: Lateral Competition Improves Robustness Against Corruption and Attack
+Improved StyleGAN-v2 based Inversion for Out-of-Distribution Images
+Hardness and Algorithms for Robust and Sparse Optimization
+Robust Policy Learning over Multiple Uncertainty Sets
+Fishr: Invariant Gradient Variances for Out-of-Distribution Generalization
+Robustness in Multi-Objective Submodular Optimization: a Quantile Approach
+FITNESS: (Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers
+Pairwise Conditional Gradients without Swap Steps and Sparser Kernel Herding
+Adversarially trained neural representations are already as robust as biological neural representations
+Robust Training under Label Noise by Over-parameterization
+Continuous-Time Modeling of Counterfactual Outcomes Using Neural Controlled Differential Equations
+Distributional Hamilton-Jacobi-Bellman Equations for Continuous-Time Reinforcement Learning
+A Langevin-like Sampler for Discrete Distributions
+Robust Meta-learning with Sampling Noise and Label Noise via Eigen-Reptile
+Data-SUITE: Data-centric identification of in-distribution incongruous examples
+Improving Robustness against Real-World and Worst-Case Distribution Shifts through Decision Region Quantification
+Building Robust Ensembles via Margin Boosting
+Learning-based Optimisation of Particle Accelerators Under Partial Observability Without Real-World Training
+Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time
+Robust Counterfactual Explanations for Tree-Based Ensembles
+Understanding Robust Generalization in Learning Regular Languages
+Scaling Out-of-Distribution Detection for Real-World Settings
+Streaming Algorithms for High-Dimensional Robust Statistics
+Distributionally Robust $Q$-Learning
+Exploiting Independent Instruments: Identification and Distribution Generalization
+Thompson Sampling for Robust Transfer in Multi-Task Bandits
+Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition
+Robust Multi-Objective Bayesian Optimization Under Input Noise
+Robustness Verification for Contrastive Learning
+Fast and Reliable Evaluation of Adversarial Robustness with Minimum-Margin Attack
+Probabilistically Robust Learning: Balancing Average- and Worst-case Performance
+Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum
+NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework
+POEM: Out-of-Distribution Detection with Posterior Sampling
+Entropic Gromov-Wasserstein between Gaussian Distributions
+Finding the Task-Optimal Low-Bit Sub-Distribution in Deep Neural Networks
+Describing Differences between Text Distributions with Natural Language
+Provable Acceleration of Heavy Ball beyond Quadratics for a Class of Polyak-Lojasiewicz Functions when the Non-Convexity is Averaged-Out
+Out-of-Distribution Detection with Deep Nearest Neighbors
+Robust alignment of cross-session recordings of neural population activity by behaviour via unsupervised domain adaptation
+ROCK: Causal Inference Principles for Reasoning about Commonsense Causality
+First-Order Regret in Reinforcement Learning with Linear Function Approximation: A Robust Estimation Approach
+DRIBO: Robust Deep Reinforcement Learning via Multi-View Information Bottleneck
+How to Train Your Wide Neural Network Without Backprop: An Input-Weight Alignment Perspective
+Policy Gradient Method For Robust Reinforcement Learning
+Robust SDE-Based Variational Formulations for Solving Linear PDEs via Deep Learning
+Controlling Conditional Language Models without Catastrophic Forgetting
+Tight and Robust Private Mean Estimation with Few Users
+Robust Kernel Density Estimation with Median-of-Means principle
+Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks
+Error-driven Input Modulation: Solving the Credit Assignment Problem without a Backward Pass
+Robust Task Representations for Offline Meta-Reinforcement Learning via Contrastive Learning
+Federated Learning with Label Distribution Skew via Logits Calibration
+RetrievalGuard: Provably Robust 1-Nearest Neighbor Image Retrieval
+Adversarial Robustness against Multiple and Single $l_p$-Threat Models via Quick Fine-Tuning of Robust Classifiers
+Robustness Implies Generalization via Data-Dependent Generalization Bounds
+Residual-Based Sampling for Online Outlier-Robust PCA
+Understanding Robust Overfitting of Adversarial Training and Beyond
+Fast Provably Robust Decision Trees and Boosting
+Robust Models Are More Interpretable Because Attributions Look Normal
+Data-Efficient Double-Win Lottery Tickets from Robust Pre-training
+Adapting k-means Algorithms for Outliers
+Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data
+Learning to Hash Robustly, Guaranteed
+Congested Bandits: Optimal Routing via Short-term Resets
+Detecting Corrupted Labels Without Training a Model to Predict
+Bayesian Learning with Information Gain Provably Bounds Risk for a Robust Adversarial Defense
+Doubly Robust Distributionally Robust Off-Policy Evaluation and Learning
+Efficient Test-Time Model Adaptation without Forgetting
+Open-Sampling: Exploring Out-of-Distribution data for Re-balancing Long-tailed datasets
+Robustness and Accuracy Could Be Reconcilable by (Proper) Definition
+From Dirichlet to Rubin: Optimistic Exploration in RL without Bonuses
+Greedy when Sure and Conservative when Uncertain about the Opponents
+Grounding Language Models to Images for Multimodal Inputs and Outputs
+Training-Free Neural Active Learning with Initialization-Robustness Guarantees
+Learning Distributions over Quantum Measurement Outcomes
+Byzantine-Robust Learning on Heterogeneous Data via Gradient Splitting
+MultiRobustBench: Benchmarking Robustness Against Multiple Attacks
+Out-of-Domain Robustness via Targeted Augmentations
+Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions
+Graph Inductive Biases in Transformers without Message Passing
+Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization
+On Distribution Dependent Sub-Logarithmic Query Time of Learned Indexing
+CLIPood: Generalizing CLIP to Out-of-Distributions
+A Law of Robustness beyond Isoperimetry
+Memory-Based Meta-Learning on Non-Stationary Distributions
+LipsNet: A Smooth and Robust Neural Network with Adaptive Lipschitz Constant for High Accuracy Optimal Control
+Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability
+Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions
+Eliminating Adversarial Noise via Information Discard and Robust Representation Restoration
+Simple and Fast Group Robustness by Automatic Feature Reweighting
+Adversarial robustness of amortized Bayesian inference
+Exploring Chemical Space with Score-based Out-of-distribution Generation
+Concept-based Explanations for Out-of-Distribution Detectors
+Averaged Method of Multipliers for Bi-Level Optimization without Lower-Level Strong Convexity
+Stratified Adversarial Robustness with Rejection
+Offline Meta Reinforcement Learning with In-Distribution Online Adaptation
+Crafting Training Degradation Distribution for the Accuracy-Generalization Trade-off in Real-World Super-Resolution
+Towards Robust and Safe Reinforcement Learning with Benign Off-policy Data
+Beyond the Universal Law of Robustness: Sharper Laws for Random Features and Neural Tangent Kernels
+Interpolation for Robust Learning: Data Augmentation on Wasserstein Geodesics
+Towards Omni-generalizable Neural Methods for Vehicle Routing Problems
+Multi-Task Differential Privacy Under Distribution Skew
+Inflow, Outflow, and Reciprocity in Machine Learning
+Robust Budget Pacing with a Single Sample
+Global Convergence of Sub-gradient Method for Robust Matrix Recovery: Small Initialization, Noisy Measurements, and Over-parameterization
+Patch-level Routing in Mixture-of-Experts is Provably Sample-efficient for Convolutional Neural Networks
+Transformed Distribution Matching for Missing Value Imputation
+Disentangled Generative Models for Robust Prediction of System Dynamics
+Lifelong Language Pretraining with Distribution-Specialized Experts
+Robust Perception through Equivariance
+Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value
+Robust Explanation for Free or At the Cost of Faithfulness
+The Value of Out-of-Distribution Data
+Learning Rate Schedules in the Presence of Distribution Shift
+HyperTuning:  Toward Adapting Large Language Models without Back-propagation
+Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection
+Not all Strongly Rayleigh Distributions Have Small Probabilistic Generating Circuits
+Model-Free Robust Average-Reward Reinforcement Learning
+Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat
+Inverse Reinforcement Learning without Reinforcement Learning
+Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time
+Robust Satisficing MDPs
+Robust One-Class Classification with Signed Distance Function using 1-Lipschitz Neural Networks
+Improving Adversarial Robustness by Putting More Regularizations on Less Robust Samples
+Improving Adversarial Robustness Through the Contrastive-Guided Diffusion Process
+Improving l1-Certified Robustness via Randomized Smoothing by Leveraging Box Constraints
+DRCFS: Doubly Robust Causal Feature Selection
+Corruption-Robust Algorithms with Uncertainty Weighting for Nonlinear Contextual Bandits and Markov Decision Processes
+Never mind the metrics---what about the uncertainty? Visualising binary confusion matrix metric distributions to put performance in perspective
+Improving Adversarial Robustness of Deep Equilibrium Models with Explicit Regulations Along the Neural Dynamics
+On the Functional Similarity of Robust and Non-Robust Neural Representations
+Robust Weak Supervision with Variational Auto-Encoders
+Learning Functional Distributions with Private Labels
+Weighted Sampling without Replacement for Deep Top-$k$ Classification
+Gradient-based Wang--Landau Algorithm: A Novel Sampler for Output Distribution of Neural Networks over the Input Space
+Hybrid Energy Based Model in the Feature Space for Out-of-Distribution Detection
+Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces
+In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation
+A Critical Revisit of Adversarial Robustness in 3D Point Cloud Recognition with Diffusion-Driven Purification
+Personalized Federated Learning under Mixture of Distributions
+On the Robustness of Randomized Ensembles to Adversarial Perturbations
+Implicit Jacobian regularization weighted with impurity of probability output
+Robust and private stochastic linear bandits
+A Likelihood Approach to Nonparametric Estimation of a Singular Distribution Using Deep Generative Models
+Robust Situational Reinforcement Learning in Face of Context Disturbances
+Robust Camera Pose Refinement for Multi-Resolution Hash Encoding
+Nonparametric Density Estimation under Distribution Drift
+Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships
+Self-Attention Amortized Distributional Projection Optimization for Sliced Wasserstein Point-Cloud Reconstruction
+Robust Speech Recognition via Large-Scale Weak Supervision
+Fair and Robust Estimation of Heterogeneous Treatment Effects for Policy Learning
+Adversarially Robust PAC Learnability of Real-Valued Functions
+Reasons for the Superiority of Stochastic Estimators over Deterministic Ones: Robustness, Consistency and Perceptual Quality
+Coin Sampling: Gradient-Based Bayesian Inference without Learning Rates
+Distribution Free Domain Generalization
+BNN-DP: Robustness Certification of Bayesian Neural Networks via Dynamic Programming
+Bilevel Optimization with Coupled Decision-Dependent Distributions
+Variational Mixture of HyperGenerators for Learning Distributions over Functions
+Robust and Scalable Bayesian Online Changepoint Detection
+On the Robustness of Text Vectorizers
+Robustness in Multimodal Learning under Train-Test Modality Mismatch
+Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles
+Distribution Free Prediction Sets for Node Classification
+Do Perceptually Aligned Gradients Imply Robustness?
+Certified Robust Neural Networks: Generalization and Corruption Resistance
+Von Mises Mixture Distributions for Molecular Conformation Generation
+Straightening Out the Straight-Through Estimator: Overcoming Optimization Challenges in Vector Quantized Networks
+Robust Counterfactual Explanations for Neural Networks With Probabilistic Guarantees
+Nearly-Linear Time and Streaming Algorithms for Outlier-Robust PCA
+Robust Consensus in Ranking Data Analysis: Definitions, Properties and Computational Issues
+Phase-aware Adversarial Defense for Improving Adversarial Robustness
+Expected Gradients of Maxout Networks and Consequences to Parameter Initialization
+From Robustness to Privacy and Back
+Fighting Fire with Fire: Contrastive Debiasing without Bias-free Data via Generative Bias-transformation
+Can Large Language Models Reason about Program Invariants?
+Dropout Reduces Underfitting
+Towards a Persistence Diagram that is Robust to Noise and Varied Densities
+Diffusion Models are Minimax Optimal Distribution Estimators
+Statistical Learning under Heterogenous Distribution Shift
+PLay: Parametrically Conditioned Layout Generation using Latent Diffusion
+"Why did the Model Fail?": Attributing Model Performance Changes to Distribution Shifts
+Variance Control for Distributional Reinforcement Learning
+Robust Weight Signatures: Gaining Robustness as Easy as Patching Weights?
+How Many Perturbations Break This Model? Evaluating Robustness Beyond Adversarial Accuracy
+Towards Explaining Distribution Shifts
+Learning useful representations for shifting tasks and distributions
+Neural networks trained with SGD learn distributions of increasing complexity
+Formalizing Preferences Over Runtime Distributions
+Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data
+Learning Temporally AbstractWorld Models without Online Experimentation
+TAN Without a Burn: Scaling Laws of DP-SGD
+Robust Collaborative Learning with Linear Gradient Overhead
+Distribution-dependent McDiarmid-type Inequalities for Functions of Unbounded Interaction
+On the Privacy-Robustness-Utility Trilemma in Distributed Learning
+Intrinsic Sliced Wasserstein Distances for Comparing Collections of Probability Distributions on Manifolds and Graphs
+A Robust Test for the Stationarity Assumption in Sequential Decision Making
+Label Distributionally Robust Losses for Multi-class Classification: Consistency, Robustness and Adaptivity
+Estimating the Contamination Factor's Distribution in Unsupervised Anomaly Detection
+A Distribution Optimization Framework for Confidence Bounds of Risk Measures
+Provably Invariant Learning without Domain Information
+GFlowOut: Dropout with Generative Flow Networks
+A Robust Optimisation Perspective on Counterexample-Guided Repair of Neural Networks
+COLA: Orchestrating Error Coding and Learning for Robust Neural Network Inference Against Hardware Defects
+Computational Asymmetries in Robust Classification
+Robust Subtask Learning for Compositional Generalization
+One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale
+Graph Ladling: Shockingly Simple Parallel GNN Training without Intermediate Communication
+Robust Non-Linear Feedback Coding via Power-Constrained Deep Learning
+Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift
+Learning Unforeseen Robustness from Out-of-distribution Data Using Equivariant Domain Translator
+Causal Modeling of Policy Interventions From Treatment–Outcome Sequences
+Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions
+Moderately Distributional Exploration for Domain Generalization
+Understanding the Impact of Adversarial Robustness on Accuracy Disparity
+Fast Algorithms for Distributed k-Clustering with Outliers
+Distributional Offline Policy Evaluation with Predictive Error Guarantees
+Measuring the Impact of Programming Language Distribution
+Detecting Out-of-distribution Data through In-distribution Class Prior
+Beyond In-Domain Scenarios: Robust Density-Aware Calibration
+Towards Robust Graph Incremental Learning on Evolving Graphs
+Unsupervised Out-of-Distribution Detection with Diffusion Inpainting
+Extending Kernel PCA through Dualization: Sparsity, Robustness and Fast Algorithms
+Outline, Then Details: Syntactically Guided Coarse-To-Fine Code Generation
+Policy Gradient in Robust MDPs with Global Convergence Guarantee
+Unit Scaling: Out-of-the-Box Low-Precision Training
+MonoNeRF: Learning Generalizable NeRFs from Monocular Videos without Camera Poses
+Learning for Edge-Weighted Online Bipartite Matching with Robustness Guarantees
+Multiply Robust Off-policy Evaluation and Learning under Truncation by Death
+Generative Causal Representation Learning for Out-of-Distribution Motion Forecasting
+Learning Representations without Compositional Assumptions
+Adversarial Learning of Distributional Reinforcement Learning
+Robustly Learning a Single Neuron via Sharpness
