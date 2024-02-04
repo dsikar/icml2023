@@ -17,7 +17,6 @@ class SemanticScholar:
         #         "paperID": "unique_paper_id",
         #         "arxivId": "arxiv_id",
         #         "publication_year": "year_of_publication",
-        #         "abstract": "Abstract of the paper"
         #     },
         #     ... (more papers)
         # ]
@@ -27,12 +26,18 @@ class SemanticScholar:
         # Structure:
         # [
         #     {
-        #         "paperID": "unique_paper_id",
-        #         "references": ["ref_paper1_id", "ref_paper2_id", ...]
+        #       "paperID": paperID,
+        #       "abstract": abstract,
+        #       "bibtex": bibtex,
+        #       "references": references,
+        #       "referenceCount": referenceCount,
+        #       "citationCount": citationCount
         #     },
         #     ... (more papers with their references)
         # ]
         self.papers_list = []
+
+        # Note: The master list is a list of reference ids, while the papers list is a list of papers and their references ids.
 
 
     def get_paper_id_by_title(self, title):
@@ -65,16 +70,15 @@ class SemanticScholar:
         # List to hold the paperIds of the references
         reference_ids = []  
 
-        # Iterate through the references and add them to the master_list
+        # Iterate through the references and add them to the master_reference_list
         for ref in references:
             paperId = ref.get('paperId')
             title = ref.get('title')
-            abstract = ref.get('abstract')
             year = ref.get('year')
             arxivId = ref.get('arxivId', None)  # arxivId may not be present for all references
 
             # Add the reference details to the master_list
-            self.add_to_master_list(title, paperId, arxivId, year, abstract)
+            self.add_to_master_list(title, paperId, arxivId, year)
 
             # Append the paperId to the reference_ids list
             reference_ids.append(paperId)
@@ -88,32 +92,6 @@ class SemanticScholar:
         # Get the directory of the current script
         script_dir = os.path.dirname(os.path.realpath(__file__))
 
-        # Construct the full path to the API key file
-        # api_key_file = os.path.join(script_dir, 'ss_api_key.txt')
-
-        # Read the API key from the file
-        # with open(api_key_file, 'r') as file:
-            # api_key = file.read().strip()
-
-        # Set the headers with the API key
-        # headers = {
-        #     'x-api-key': api_key
-        # }
-
-        # s = requests.Session()
-        # s.timeout = 15
-        # Make a POST request to retrieve paper details
-        # r = requests.post(
-        #     'https://api.semanticscholar.org/graph/v1/paper/batch',
-        #     params="{'fields': 'referenceCount,citationCount,title,citationStyles,openAccessPdf,externalIds,publicationDate,abstract'}",
-        #     json={"ids": [paperID]}
-        # )
-        # r = requests.post(
-        #     f'https://api.semanticscholar.org/graph/v1/paper/paper/{paperID}?fields=referenceCount,citationCount,title,citationStyles,openAccessPdf,externalIds,publicationDate,abstract'
-        # )        
-
-        #output = r.json()
-
         url = f'https://api.semanticscholar.org/graph/v1/paper/{paperID}?fields=referenceCount,citationCount,title,citationStyles,openAccessPdf,externalIds,publicationDate,abstract'
         response = requests.get(url)
 
@@ -123,7 +101,9 @@ class SemanticScholar:
         publication_year = None
         abstract = None
         bibtex = None
-
+        referenceCount = None
+        citationCount = None
+        
         if response.status_code == 200:
             output = response.json()
         else:
@@ -138,11 +118,15 @@ class SemanticScholar:
             publication_year = output['publicationDate'].split('-')[0]  # Extract the year from the date
         if 'abstract' in output:
             abstract = output['abstract']
+        if 'referenceCount' in output:
+            referenceCount = output['referenceCount']
+        if 'citationCount' in output:
+            citationCount = output['citationCount']
             
-        return bibtex, arxiv_id, publication_year, abstract
+        return bibtex, arxiv_id, publication_year, abstract, referenceCount, citationCount
 
 
-    def add_to_master_list(self, title, paperID, arxivId, publication_year, abstract):
+    def add_to_master_list(self, title, paperID, arxivId, publication_year):
         """Add a paper's details to the master list if it doesn't already exist."""
         # Check if the entry with the given paperID already exists
         if not any(paper['paperID'] == paperID for paper in self.master_list):
@@ -150,8 +134,7 @@ class SemanticScholar:
                 "title": title,
                 "paperID": paperID,
                 "arxivId": arxivId,
-                "publication_year": publication_year,
-                "abstract": abstract
+                "publication_year": publication_year
             })
             if self.debug:            
                 print(f"Entry for paperID '{paperID}' added to master list.")
@@ -160,7 +143,7 @@ class SemanticScholar:
                 print(f"Entry for paperID '{paperID}' already exists in master list.")
 
 
-    def add_to_papers_list(self, paperID, abstract, bibtex, references):
+    def add_to_papers_list(self, paperID, abstract, bibtex, references, referenceCount, citationCount):
         """Add a paper and its references to the papers_list."""
         # Check if the entry with the given paperID already exists in papers_list
         if not any(paper['paperID'] == paperID for paper in self.papers_list):
@@ -168,7 +151,9 @@ class SemanticScholar:
                 "paperID": paperID,
                 "abstract": abstract,
                 "bibtex": bibtex,
-                "references": references
+                "references": references,
+                "referenceCount": referenceCount,
+                "citationCount": citationCount
             })
             if self.debug:            
                 print(f"Entry for paperID '{paperID}' added to papers list.")
@@ -179,15 +164,22 @@ class SemanticScholar:
    
     def download_arxiv_pdf(self, arxiv_id, directory_path="."):
         """Download the PDF for the given ArXiv ID and save it to the specified directory."""
+
+        # Construct the full path for saving the PDF
+        save_path = os.path.join(directory_path, f"{arxiv_id}.pdf")
+
+        # check if the file has already been downloaded
+        if os.path.exists(save_path):
+            if self.debug:
+                print(f"File {save_path} already exists.")
+            return
+                
         # Build the URL
         url = f"https://arxiv.org/pdf/{arxiv_id}.pdf"
 
         # Ensure the directory exists; create it if it doesn't
         if not os.path.exists(directory_path):
             os.makedirs(directory_path)
-
-        # Construct the full path for saving the PDF
-        save_path = os.path.join(directory_path, f"{arxiv_id}.pdf")
 
         # Download the PDF
         response = requests.get(url)
