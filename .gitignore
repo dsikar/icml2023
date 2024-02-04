@@ -2,7 +2,7 @@
 # api key
 scripts/ss_api_key.txt
 # download folders
-iclr_20*
+icml_*
 # bitcode
 scripts/__pycache__
 # environment
@@ -10,3 +10,5 @@ scripts/__pycache__
 # code run artifacts
 saved_data/
 slides/
+# hyperion outputs
+outputs
